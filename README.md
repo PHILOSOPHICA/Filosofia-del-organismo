@@ -10,6 +10,6 @@ Twitter: https://twitter.com/PHILOSOPHICA6
 
 Instrucciones para descarga:
 
-1. Botón verde Code.
+1. Botón verde < >Code.
 2. Descargar versión zip.
 3. Extraer documentos en pc.
